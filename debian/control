@@ -10,7 +10,7 @@ Vcs-Browser: http://git.kali.org/gitweb/?p=packages/ohrwurm.git;a=summary
 
 Package: ohrwurm
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, dsniff, libpcap0.8
+Depends: dsniff, libpcap0.8
 Description: RTP fuzzer
  ohrwurm is a small and simple RTP fuzzer that has been 
  successfully tested on a small number of SIP phones. 
