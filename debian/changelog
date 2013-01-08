@@ -1,0 +1,5 @@
+ohrwurm (0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 07 Jan 2013 18:18:31 -0700
