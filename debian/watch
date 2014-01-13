@@ -1,0 +1,3 @@
+version=3
+
+http://mazzoo.de/blog/2006/08/25 /d/ohrwurm-([\d\.]+)\.(?:tgz|tbz2|txz|tar\.gz|tar\.bz2|tar\.xz)

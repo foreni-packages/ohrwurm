@@ -1,3 +1,9 @@
+ohrwurm (0.1-1kali1) kali; urgency=low
+
+  * Updated watch file
+
+ -- Mati Aharoni <muts@kali.org>  Sun, 12 Jan 2014 19:23:28 -0500
+
 ohrwurm (0.1-1kali0) kali; urgency=low
 
   * Initial release 
